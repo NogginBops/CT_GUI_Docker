@@ -25,7 +25,7 @@ For a hypothetical dataset with `N` projections and a sensor with `X` times `Y` 
   - `shifts.npy[:, 1]`: unused
   - `shifts.npy[:, 2]`: shift along the axis of rotation
 
-- `metadata.json` - schema: [metadata-schema.json](./metadata-schema.json)
+- `metadata.json` - schema: [metadata-schema.json](./schemas/metadata-schema.json)
   
   Metadata about the acquisition geometry such as the source radius and detector shape.
 
